@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= 'img src='https://github.com/SYee50/Instagram/blob/main/Instagram2.gif' />
+<img src= 'https://github.com/SYee50/Instagram/blob/main/Instagram2.gif' />
 
 
 # Parstagram - Part I
